@@ -8,7 +8,7 @@ tags:
 >
 > Vuex 是一个专门针对 Vue.js 应用的状态管理库，它可以让我们更方便地管理应用中的数据和状态，从而达到更好的代码组织和代码复用的效果。
 >
-> Vuex 中的核心元素有四个：state、getters、mutations 和 actions。<!--more-->
+> Vuex 中的核心元素有四个：state、getters、mutations 和 actions。
 >
 
 ## state
